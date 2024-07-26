@@ -10,3 +10,5 @@ Reccomended links for you:
 [Kometa wiki page for installing through docker](https://kometa.wiki/en/latest/kometa/install/docker/)
 
 [Kometa discord server for support](https://kometa.wiki/en/latest/discord/)
+
+Will be updating with new assets for the currently airing 'Monogatari Series: Off & Monster Season' eventually. 
