@@ -1,6 +1,6 @@
 libraries:
   Anime:
-    collection_files:
+    metadata_files:
       - file: config/Monogatari.yml
 settings:
   cache: true
