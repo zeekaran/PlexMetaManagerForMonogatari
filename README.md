@@ -6,5 +6,7 @@ This is for running [Kometa](https://github.com/meisnate12/Plex-Meta-Manager) an
 Special thanks to Zeekaran for starting this little project, the Kometa devs for a great tool that does way more than I understand, and the Kometa discord support staff for helping me troubleshoot this to working status. 
 
 Reccomended links for you: 
+
 [Kometa wiki page for installing through docker](https://kometa.wiki/en/latest/kometa/install/docker/)
+
 [Kometa discord server for support](https://kometa.wiki/en/latest/discord/)
