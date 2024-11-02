@@ -11,4 +11,4 @@ Reccomended links for you:
 
 [Kometa discord server for support](https://kometa.wiki/en/latest/discord/)
 
-Will be updating with new assets for the currently airing 'Monogatari Series: Off & Monster Season' eventually. 
+I have added some art, and info on the most recently aired 'Monogatari Series: Off & Monster Season.' I'm hoping that MAL users add individual episode synopses eventually, and if they come about I will add them as well. 
