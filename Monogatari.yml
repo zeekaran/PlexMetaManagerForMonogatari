@@ -46,6 +46,9 @@ metadata:
       15:
         title: Zoku Owarimonogatari
         summary: With the battle with Ougi Oshino over, it was finally time to graduate from Naoetsu High School the next morning.
+      16:
+        title: Off & Monster Season
+        summary: Koyomi Araragi spent his last year of high school helping girls in his town resolve various supernatural afflictions. But now Araragi has departed for university, leaving his friends to fend for themselves against new problems and curses that plague them. Yotsugi Ononoki, once a human corpse and now a living doll, takes residence in Araragi's home, keeping watch over his sister Tsukihi, a girl harboring a mystical secret of her own. As part of her duties, Yotsugi fills Araragi's vacated role as occult expert, assisting others in town with their issues. One of these girls, middle school student Nadeko Sengoku, slowly recovers from her own recent brushes with the paranormal. She avoids returning to school, instead spending time alone in her room and pursuing her dream of becoming a professional manga artist. In order to speed up Nadeko's quest for mastery of her craft, Yotsugi convinces her to create four copies of herself, each representing a distinct aspect of Nadeko's personality. However, the clones refuse to help Nadeko, instead escaping into the town and creating a chaotic mess. Now forced to grapple with her own fractured sense of identity, Nadeko sets out to capture them and resolve her inner conflict.
     episodes:
       S01E01:
         title: Hitagi Crab - Part 1
@@ -449,3 +452,46 @@ metadata:
       S15E06:
         title: Koyomi Reverse - Part 6
         originally_available: 2018-11-10
+      S16E01:
+        title: "Orokamonogatari: Tsukihi Undo"
+        originally_available: 2024-07-06
+      S16E02:
+        title: "Nademonogatari: Nadeko Draw, Part 1"
+        originally_available: 2024-07-13
+      S16E03:
+        title: "Nademonogatari: Nadeko Draw, Part 2"
+        originally_available: 2024-07-20
+      S16E04:
+        title: "Nademonogatari: Nadeko Draw, Part 3"
+        originally_available: 2024-07-27
+      S16E05:
+        title: "Nademonogatari: Nadeko Draw, Part 4"
+        originally_available: 2024-08-03
+      S16E06:
+        title: "Nademonogatari: Nadeko Draw, Part 5"
+        originally_available: 2024-08-10
+      S16E07:
+        title: "Wazamonogatari: Acerola Bon Appétit, Part 1"
+        originally_available: 2024-08-24
+      S16E08:
+        title: "Wazamonogatari: Acerola Bon Appétit, Part 2"
+        originally_available: 2024-08-31
+      S16E09:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 1"
+        originally_available: 2024-09-14
+      S16E10:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 2"
+        originally_available: 2024-09-21
+      S16E11:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 3"
+        originally_available: 2024-09-28
+      S16E12:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 4"
+        originally_available: 2024-10-05
+      S16E13:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 5"
+        originally_available: 2024-10-12
+      S16E14:
+        title: "Shinobumonogatari: Shinobu Mustard, Part 6"
+        originally_available: 2024-10-19
+
